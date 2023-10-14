@@ -1,4 +1,4 @@
-# Gated Frotnend
+# Gated Frontend
 
 
 ## Setup
